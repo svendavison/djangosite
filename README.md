@@ -29,7 +29,7 @@ Don't forget to open SELinux a little to allow the proxy via gunicorn
 /var/log/nginx/nginx.vhost.error.log
 
 
-Jenkins takes care of my deployments now.
+Jenkins takes care of my deployments now!
 
 
 # raw bug
